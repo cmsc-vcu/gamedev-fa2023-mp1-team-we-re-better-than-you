@@ -16,3 +16,9 @@ semester to get you working faster, and to make grading much easier for
 the TA team.
 
 Good luck!
+
+Project Title: Gnome Needs a Beer
+
+Description: Player moves gnome around the scene to pick up glasses of beer using arrow keys for movement and the space bar for jump.
+
+Game URL: https://play.unity.com/mg/other/please-work-6
