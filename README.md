@@ -17,8 +17,9 @@ the TA team.
 
 Good luck!
 
-Project Title: Gnome Needs a Beer
+Project Title: ______
 
-Description: Player moves gnome around the scene to pick up glasses of beer using arrow keys for movement and the space bar for jump.
+Description: Player must move the character up and down using arrow keys to dodge the flytraps. Once the player hits a flytrap, the game is over.
 
-Game URL: https://play.unity.com/mg/other/please-work-6
+Game URL: https://play.unity.com/mg/other/siddiqui_hw4
+
