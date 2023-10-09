@@ -17,7 +17,7 @@ the TA team.
 
 Good luck!
 
-Project Title: ______
+Project Title: Flytrap Dash
 
 Description: Player must move the character up and down using arrow keys to dodge the flytraps. Once the player hits a flytrap, the game is over.
 
